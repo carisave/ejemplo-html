@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset = "utf-8">
+ <title>titulo de la pagina</title>
+ <link rel = "styleshect" href = "estilo.css">
+ <head>
+ <body>
+     <section>
+          <h1> mi pagina </h1>
+		  <p> esto es un parrafo  </p>  
+		  </section>
+		  <footer>
+		       pie de pagina.
+		</footer>  
+   	</body>
+	</html>
